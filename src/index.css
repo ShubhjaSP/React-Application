@@ -1,0 +1,114 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: darkgray;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+ 
+
+
+a {
+  margin-right: 15px;
+}
+
+.about {
+  background-color: darkgray;
+  width: 100%;
+  height: 650px;
+}
+
+
+.contact {
+  background-color: darkgray;
+  width: 100%;
+  height: 650px;
+}
+li.MuiImageListItem-root.MuiImageListItem-standard.css-ta95xa-MuiImageListItem-root {
+  margin-top: -100px;
+}
+
+img.img-fluid.max-height {
+  object-fit: cover;
+  max-height: 373px;
+}
+
+.css-ta95xa-MuiImageListItem-root .MuiImageListItem-img {
+  object-fit: cover;
+  width: 100%;
+  height: 670px;
+  display: block;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+.MuiContainer-root.MuiContainer-maxWidthXl.home_container1.css-4i30i7-MuiContainer-root {
+  background-color: darkgray;
+  height: 650px;
+}
+
+.text-on-Loginimage{
+  position: absolute;
+  right: 12px;
+  left: -10px;
+  bottom: 15%;
+  margin-bottom: 500px;
+  font-family: ui-serif;
+}
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+  color: revert-layer;
+}
+.text-on-image {
+  position:absolute;
+  text-align: center; 
+  right: 12px;
+  left: -10px;
+
+  bottom: 15%;
+  width: auto;
+    height: auto;
+  margin-bottom: 170px;
+  font-family: ui-serif;
+}
+.css-ta95xa-MuiImageListItem-root .MuiImageListItem-img {
+  object-fit: cover;
+  width: 100%;
+  height: auto;
+  display: block;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  margin-top: 100px;
+}
+
+.logo{
+  width:45px;
+  float:left;
+  border-radius: 50%;
+}
+
+
+a.navbar-brand {
+  margin-left: -10px;
+  font-family: revert-layer;
+  font-size: x-large;
+}
+
